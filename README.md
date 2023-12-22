@@ -1,4 +1,10 @@
 # Cina_Flix_2.0
+website: 
+## https://cinaflix.000webhostapp.com/
+yt:
+## https://youtu.be/uYawQwwYxTg?si=E5XvtsezlrS4mbQw
+
+
 ![WhatsApp Image 2023-12-22 at 15 31 35_792ae3ad](https://github.com/ChristianNathanielP/Cina_Flix_2.0/assets/115161976/8ff19e59-b294-435b-8579-a66c52b6ad47)
 ![WhatsApp Image 2023-12-22 at 15 31 35_02babbef](https://github.com/ChristianNathanielP/Cina_Flix_2.0/assets/115161976/a0bf6b28-6c8a-4253-a2dd-14e11225e085)
 ![WhatsApp Image 2023-12-22 at 15 32 06_ce469437](https://github.com/ChristianNathanielP/Cina_Flix_2.0/assets/115161976/c3314904-e686-44d9-8dc0-e6840269bcfe)
