@@ -1,6 +1,8 @@
 # Cina_Flix_2.0
 website: 
 ## https://cinaflix.000webhostapp.com/
+username: aseng 
+password: 12345
 yt:
 ## https://youtu.be/uYawQwwYxTg?si=E5XvtsezlrS4mbQw
 
